@@ -13,7 +13,7 @@ session_start();
 
 <body>
 	<header>
-		<h1>School Management System Student Dashboard </h1>
+		<h1>School Management System Stu Dashboard </h1>
 	</header>
 	<?php
 	include("studentHeader.php");
