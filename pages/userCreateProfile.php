@@ -14,7 +14,7 @@
     <form action="../includes/userCreateProfileInclude.php" method="post">
         <div class="user-details">
           <div class="input-box">
-            <span class="details">Fist Name</span>
+            <span class="details">First Name</span>
             <input type="text" placeholder="Enter your First Name" name="firstname" required>
           </div>
           <div class="input-box">
