@@ -7,13 +7,13 @@ session_start();
 <html>
 
 <head>
-	<title>School Management System Admin Dashboard</title>
+	<title>School Management System Admin System</title>
 	<link rel="stylesheet" href="css/userWelcome.css">
 </head>
 
 <body>
 	<header>
-		<h1>School Management System Student Dashboard </h1>
+		<h1>School Management System Student System </h1>
 	</header>
 	<?php
 	include("student/studentHeader.php")
