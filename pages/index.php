@@ -38,7 +38,7 @@
 					<label for="chk" aria-hidden="true">Login</label>
 					<input type="email" name="email" placeholder="Email">
 					<input type="password" name="password" placeholder="Password">
-					<button name="submit">Login</button>
+					<button name="submit">Sign in</button>
 				</form>
 			</div>
 		</div>
