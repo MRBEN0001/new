@@ -1,7 +1,7 @@
 <nav>
-    <a href="createUser.php">Create User</a>
+    <a href="createUser.php">Create New User</a>
     <a href="teachers.php">View Teachers</a>
-    <a href="students.php">View Students</a>
+    <a href="students.php">View All Students</a>
     <a href="#">View Result</a>
     <a href="addCourse.php">Add Course</a>
 
