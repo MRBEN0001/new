@@ -30,7 +30,7 @@
             <input type="text" placeholder="Enter your State of Origin"  name="state" required>
           </div>
           <div class="input-box">
-            <span class="details">Enter your address</span>
+            <span class="details">Address</span>
             <input type="text" placeholder="Enter your Residential Address" name="address" required>
           </div>
           <div class="input-box">
